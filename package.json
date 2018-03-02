@@ -4,6 +4,7 @@
   "description": "Based on [this article](https://mxstbr.blog/2017/01/your-first-node-microservice/).",
   "main": "index.js",
   "scripts": {
+    "start": "micro",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
