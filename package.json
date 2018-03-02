@@ -1,0 +1,16 @@
+{
+  "name": "microservice-counter",
+  "version": "1.0.0",
+  "description": "Based on [this article](https://mxstbr.blog/2017/01/your-first-node-microservice/).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "level": "^3.0.0",
+    "micro": "^9.1.0",
+    "then-levelup": "^1.0.2"
+  }
+}
